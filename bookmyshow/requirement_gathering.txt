@@ -1,0 +1,22 @@
+bookmyshow
+actors: 
+end users:
+-login
+-choose location
+-browsing movies/activities.If movies, can choose based on language, name of the movie, place , ratings,
+If an activity, can choose by the name, place , ratings
+-checkout
+-payment
+-rate the movie/activity
+-cancel the movie/activity
+
+
+partners: 
+-registering to app
+-activity/movie details (name, time, language etc.)
+-view the seats booked.
+
+
+system: 
+-notification
+-manage booking the seat
